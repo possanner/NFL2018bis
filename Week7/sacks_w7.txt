@@ -1,0 +1,32 @@
+1        Baltimore Ravens   27
+2          Denver Broncos   22
+3     Pittsburgh Steelers   22
+4           Detroit Lions   21
+5       Minnesota Vikings   21
+6      Indianapolis Colts   21
+7       Arizona Cardinals   20
+8           Buffalo Bills   19
+9          Dallas Cowboys   19
+10          Chicago Bears   19
+11       Los Angeles Rams   19
+12         Houston Texans   19
+13       Cleveland Browns   19
+14     Kansas City Chiefs   19
+15      Green Bay Packers   18
+16   Los Angeles Chargers   18
+17    Philadelphia Eagles   18
+18       Seattle Seahawks   16
+19      Carolina Panthers   16
+20   Jacksonville Jaguars   15
+21       Tennessee Titans   15
+22          New York Jets   15
+23     Cincinnati Bengals   15
+24    Washington Redskins   14
+25    San Francisco 49ers   14
+26   Tampa Bay Buccaneers   14
+27     New Orleans Saints   13
+28         Miami Dolphins   11
+29        Atlanta Falcons   10
+30   New England Patriots    9
+31        New York Giants    7
+32        Oakland Raiders    7
