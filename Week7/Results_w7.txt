@@ -1,0 +1,14 @@
+7,Thu,October 18,Denver Broncos,@,Arizona Cardinals,45,10
+7,Sun,October 21,Los Angeles Chargers,,Tennessee Titans,20,19
+7,Sun,October 21,Detroit Lions,@,Miami Dolphins,32,21
+7,Sun,October 21,Carolina Panthers,@,Philadelphia Eagles,21,17
+7,Sun,October 21,New England Patriots,@,Chicago Bears,38,31
+7,Sun,October 21,Tampa Bay Buccaneers,,Cleveland Browns,26,23
+7,Sun,October 21,Houston Texans,@,Jacksonville Jaguars,20,7
+7,Sun,October 21,Indianapolis Colts,,Buffalo Bills,37,5
+7,Sun,October 21,Minnesota Vikings,@,New York Jets,37,17
+7,Sun,October 21,New Orleans Saints,@,Baltimore Ravens,24,23
+7,Sun,October 21,Washington Redskins,,Dallas Cowboys,20,17
+7,Sun,October 21,Los Angeles Rams,@,San Francisco 49ers,39,10
+7,Sun,October 21,Kansas City Chiefs,,Cincinnati Bengals,45,10
+7,Mon,October 22,Atlanta Falcons,,New York Giants,23,20

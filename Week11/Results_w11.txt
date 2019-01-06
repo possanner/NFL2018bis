@@ -1,0 +1,13 @@
+11,Thu,November 15,Seattle Seahawks,,Green Bay Packers,27,24
+11,Sun,November 18,Houston Texans,@,Washington Redskins,23,21
+11,Sun,November 18,Indianapolis Colts,,Tennessee Titans,38,10
+11,Sun,November 18,Pittsburgh Steelers,@,Jacksonville Jaguars,20,16
+11,Sun,November 18,Dallas Cowboys,@,Atlanta Falcons,22,19
+11,Sun,November 18,New York Giants,,Tampa Bay Buccaneers,38,35
+11,Sun,November 18,Baltimore Ravens,,Cincinnati Bengals,24,21
+11,Sun,November 18,Detroit Lions,,Carolina Panthers,20,19
+11,Sun,November 18,Oakland Raiders,@,Arizona Cardinals,23,21
+11,Sun,November 18,Denver Broncos,@,Los Angeles Chargers,23,22
+11,Sun,November 18,New Orleans Saints,,Philadelphia Eagles,48,7
+11,Sun,November 18,Chicago Bears,,Minnesota Vikings,25,20
+11,Mon,November 19,Los Angeles Rams,,Kansas City Chiefs,54,51
